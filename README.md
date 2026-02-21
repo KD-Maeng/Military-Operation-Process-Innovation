@@ -64,7 +64,6 @@
 ---
 
 ## 👨‍💻 About Developer
-**K.Daniell (맹경도)**
+**K.Daniel (맹경도)**
 * 前 ㈜엘로드솔루션 RPA DevOps 기술전략 총괄 팀장
-* Brity RPA Advanced Level / UiPath Developer Foundation 보유
-* 📧 Email: Kd.maeng@Irodsolution.com
+* Brity RPA Advanced Level / UiPath Developer Foundation
